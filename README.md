@@ -1,2 +1,2 @@
 # Easy2Hired
-This website are build only purpose
+The only purpose of building this website is to practice 
